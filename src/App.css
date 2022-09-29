@@ -219,7 +219,7 @@ body {
 		height: 120vh;
 	}
 	.home-2-container {
-		height: 140vh;
+		height: 150vh;
 		display: flex;
 		background: linear-gradient(180deg, #ffffff 0%, #25293a 70%);
 	}
@@ -251,5 +251,16 @@ body {
 	.home-button {
 		margin-top: 2rem;
 		margin-right: 0;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.home-container {
+		height: 150vh;
+	}
+	.home-2-container {
+		height: 200vh;
+		display: flex;
+		background: linear-gradient(180deg, #ffffff 0%, #25293a 70%);
 	}
 }
