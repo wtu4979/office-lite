@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/office-lite/static/css/main.321b194e.css",
+    "main.js": "/office-lite/static/js/main.8411aeec.js",
+    "static/media/Group-15.svg": "/office-lite/static/media/Group-15.967a075e6590a0f9af0ef51b8a28dd71.svg",
+    "static/media/Group-23.svg": "/office-lite/static/media/Group-23.6e3d7e7cfbf496a727a474ab2d3bfebb.svg",
+    "index.html": "/office-lite/index.html",
+    "static/media/Group-19.svg": "/office-lite/static/media/Group-19.796552889902552e7dce13e83bf296a3.svg",
+    "main.321b194e.css.map": "/office-lite/static/css/main.321b194e.css.map",
+    "main.8411aeec.js.map": "/office-lite/static/js/main.8411aeec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321b194e.css",
+    "static/js/main.8411aeec.js"
+  ]
+}
